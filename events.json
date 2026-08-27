@@ -1,0 +1,34 @@
+[
+  {
+    "id": "e1",
+    "title": "Fall Adoption Drive",
+    "type": "Adoption Drive",
+    "date": "2026-09-13",
+    "location": "Downtown Shelter Courtyard",
+    "description": "Meet more than 30 dogs, cats and rabbits. They are ready for a new home. Adoption fees are free today."
+  },
+  {
+    "id": "e2",
+    "title": "Free Community Vaccination Camp",
+    "type": "Vaccination Camp",
+    "date": "2026-09-27",
+    "location": "Riverside Shelter Parking Lot",
+    "description": "Free shots and microchips for pets you own. Come early — it is first come, first served."
+  },
+  {
+    "id": "e3",
+    "title": "Responsible Pet Ownership Workshop",
+    "type": "Awareness Event",
+    "date": "2026-10-04",
+    "location": "Northgate Community Hall",
+    "description": "A free class about pet food, basic training, and simple health care."
+  },
+  {
+    "id": "e4",
+    "title": "Senior Pets, Senior Hearts",
+    "type": "Adoption Drive",
+    "date": "2026-10-18",
+    "location": "Downtown Shelter Courtyard",
+    "description": "A special event for older pets. They need a calm and loving home."
+  }
+]

@@ -1,0 +1,6 @@
+[
+  { "id": "g1", "title": "Brushing Basics", "category": "Brushing", "duration": "4:12", "description": "Learn the right brush for your pet's fur. A simple, gentle routine with no tangles.", "thumbnail": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=700&q=80", "video": "https://assets.mixkit.co/videos/15160/15160-720.mp4" },
+  { "id": "g2", "title": "Stress-Free Bath Time", "category": "Bathing", "duration": "6:45", "description": "A step-by-step guide for a calm bath. Use warm water and pet-safe shampoo.", "thumbnail": "https://images.unsplash.com/photo-1591946614720-90a587da4a36?w=700&q=80", "video": "https://assets.mixkit.co/videos/45405/45405-720.mp4" },
+  { "id": "g3", "title": "Safe Nail Trimming", "category": "Nail Trimming", "duration": "5:30", "description": "Learn how to trim nails safely, and see which tools help the most.", "thumbnail": "https://images.unsplash.com/photo-1601758260876-1968b13c6f96?w=700&q=80", "video": "https://assets.mixkit.co/videos/15160/15160-720.mp4" },
+  { "id": "g4", "title": "Coat & Skin Care", "category": "Coat Care", "duration": "7:02", "description": "Simple tips for your pet's fur and skin, in every season.", "thumbnail": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=700&q=80", "video": "https://assets.mixkit.co/videos/45405/45405-720.mp4" }
+]

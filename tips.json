@@ -1,0 +1,44 @@
+[
+  {
+    "id": "t1",
+    "topic": "Oral Care",
+    "icon": "Sparkles",
+    "summary": "Brush your pet's teeth 2–3 times a week. Use pet-safe toothpaste to stop tartar and gum disease.",
+    "detail": "Most pets over age three have some dental disease. Start brushing slowly. Use enzyme pet toothpaste — never human toothpaste. Dental chews can help too."
+  },
+  {
+    "id": "t2",
+    "topic": "Healthy Weight",
+    "icon": "Activity",
+    "summary": "You should feel your pet's ribs, but not see them. Measure meals instead of leaving food out all day.",
+    "detail": "Being overweight can shorten your pet's life and hurt their joints. Use a measuring cup for every meal. Keep treats under 10% of daily food. Play with your pet for 20–30 minutes each day."
+  },
+  {
+    "id": "t3",
+    "topic": "Vaccinations",
+    "icon": "ShieldCheck",
+    "summary": "Follow the core vaccine schedule. Keep booster shots on time, as your vet says.",
+    "detail": "Core vaccines protect against rabies, distemper, and parvovirus. Puppies and kittens need shots every 3–4 weeks until 16 weeks old. After that, they need boosters every one to three years."
+  },
+  {
+    "id": "t4",
+    "topic": "Common Conditions",
+    "icon": "Stethoscope",
+    "summary": "Watch for changes in appetite, energy, fur, or bathroom habits. Early signs matter most.",
+    "detail": "Ear infections, UTIs, and skin allergies are common. They are easy to treat when caught early. Book a check-up once a year — twice a year for older pets."
+  },
+  {
+    "id": "t5",
+    "topic": "Hydration",
+    "icon": "Droplets",
+    "summary": "Always keep fresh water ready. Wet food gives cats extra water too.",
+    "detail": "Not drinking enough water can hurt the kidneys, especially in cats. Clean water bowls every day. A pet water fountain can help. Watch how much your pet drinks in hot weather."
+  },
+  {
+    "id": "t6",
+    "topic": "Parasite Prevention",
+    "icon": "Bug",
+    "summary": "Use flea, tick, and heartworm prevention all year. Ask your vet what is best for your pet.",
+    "detail": "Parasites can spread serious disease, even indoors. Use monthly prevention, check stool samples often, and check for ticks after time outside."
+  }
+]

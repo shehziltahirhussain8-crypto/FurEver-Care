@@ -1,0 +1,137 @@
+[
+  {
+    "id": "p1",
+    "name": "Grain-Free Salmon Kibble",
+    "category": "Dog/Cat Food",
+    "price": 34.99,
+    "description": "A salmon recipe with omega oils. Good for a shiny coat and strong joints.",
+    "image": "https://images.unsplash.com/photo-1589924691995-400dc9ecc119?w=600&q=80",
+    "rating": 4.8
+  },
+  {
+    "id": "p2",
+    "name": "Slow-Feeder Puzzle Bowl",
+    "category": "Dog/Cat Food",
+    "price": 18.5,
+    "description": "This bowl has ridges to slow down fast eaters. It makes mealtime fun too.",
+    "image": "https://images.unsplash.com/photo-1601758228041-f3b2795255f1?w=600&q=80",
+    "rating": 4.6
+  },
+  {
+    "id": "p3",
+    "name": "Freeze-Dried Chicken Treats",
+    "category": "Dog/Cat Food",
+    "price": 12.99,
+    "description": "Chicken treats with one ingredient. No fillers, no extra additives.",
+    "image": "https://images.unsplash.com/photo-1607923432780-6b832ef9cdf1?w=600&q=80",
+    "rating": 4.9
+  },
+  {
+    "id": "p4",
+    "name": "Braided Rope Tug Toy",
+    "category": "Toys",
+    "price": 9.99,
+    "description": "Strong cotton rope for tug-of-war. Great for solo chewing too.",
+    "image": "https://images.unsplash.com/photo-1601758124096-1706fb1a1e5e?w=600&q=80",
+    "rating": 4.5
+  },
+  {
+    "id": "p5",
+    "name": "Feather Wand Cat Teaser",
+    "category": "Toys",
+    "price": 7.5,
+    "description": "A fun wand toy with feathers. It brings out your cat's natural hunting instinct.",
+    "image": "https://images.unsplash.com/photo-1526336179256-1347bdb255ee?w=600&q=80",
+    "rating": 4.7
+  },
+  {
+    "id": "p6",
+    "name": "Treat-Dispensing Puzzle Ball",
+    "category": "Toys",
+    "price": 14.0,
+    "description": "A toy that gives treats as a reward. Great for keeping your pet's mind active.",
+    "image": "https://images.unsplash.com/photo-1587764379873-97837921fd44?w=600&q=80",
+    "rating": 4.4
+  },
+  {
+    "id": "p7",
+    "name": "Deshedding Slicker Brush",
+    "category": "Grooming Essentials",
+    "price": 16.25,
+    "description": "Fine steel pins remove loose fur. Gentle on the skin.",
+    "image": "https://images.unsplash.com/photo-1583511655857-d19b40a7a54e?w=600&q=80",
+    "rating": 4.6
+  },
+  {
+    "id": "p8",
+    "name": "Oatmeal Calming Shampoo",
+    "category": "Grooming Essentials",
+    "price": 13.75,
+    "description": "A soap-free shampoo. It soothes itchy, sensitive skin.",
+    "image": "https://images.unsplash.com/photo-1591946614720-90a587da4a36?w=600&q=80",
+    "rating": 4.7
+  },
+  {
+    "id": "p9",
+    "name": "Nail Clipper with Safety Guard",
+    "category": "Grooming Essentials",
+    "price": 10.99,
+    "description": "Easy-to-use clippers with a safety guard. Helps you avoid cutting too much.",
+    "image": "https://images.unsplash.com/photo-1601758260876-1968b13c6f96?w=600&q=80",
+    "rating": 4.5
+  },
+  {
+    "id": "p10",
+    "name": "Orthopedic Memory Foam Bed",
+    "category": "Bedding & Apparel",
+    "price": 59.0,
+    "description": "A foam bed that supports joints. Good for older pets and big breeds.",
+    "image": "https://images.unsplash.com/photo-1583512603806-077998240c7a?w=600&q=80",
+    "rating": 4.9
+  },
+  {
+    "id": "p11",
+    "name": "Reversible Winter Coat",
+    "category": "Bedding & Apparel",
+    "price": 27.99,
+    "description": "A warm coat with a water-resistant shell. Great for cold walks.",
+    "image": "https://images.unsplash.com/photo-1601758228079-e63a2ae7bea9?w=600&q=80",
+    "rating": 4.3
+  },
+  {
+    "id": "p12",
+    "name": "Woven Cat Cave Bed",
+    "category": "Bedding & Apparel",
+    "price": 32.5,
+    "description": "A cozy, closed bed for cats. Perfect for cats who love to hide and nap.",
+    "image": "https://images.unsplash.com/photo-1545249390-6bdfa286032f?w=600&q=80",
+    "rating": 4.6
+  },
+  {
+    "id": "p13",
+    "name": "Hip & Joint Chewables",
+    "category": "Health Supplements",
+    "price": 22.0,
+    "description": "A chewable supplement for joints. Helps older pets move better.",
+    "image": "https://images.unsplash.com/photo-1628009368231-7bb7cfcb0def?w=600&q=80",
+    "rating": 4.7
+  },
+  {
+    "id": "p14",
+    "name": "Probiotic Digestive Support",
+    "category": "Health Supplements",
+    "price": 19.5,
+    "description": "A daily powder for gut health. Helps keep digestion steady.",
+    "image": "https://images.unsplash.com/photo-1583947581924-860bda6a26df?w=600&q=80",
+    "rating": 4.5
+  },
+  {
+    "id": "p15",
+    "name": "Omega-3 Skin & Coat Oil",
+    "category": "Health Supplements",
+    "price": 17.25,
+    "description": "Fish oil for a shiny coat. Helps cut down on shedding too.",
+    "image": "https://images.unsplash.com/photo-1601758064135-cec9ad00e05e?w=600&q=80",
+    "rating": 4.6
+  }
+]

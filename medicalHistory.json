@@ -1,0 +1,7 @@
+[
+  { "id": "m1", "petName": "Cooper", "condition": "Seasonal Allergic Dermatitis", "date": "2026-06-14", "treatment": "Prescribed antihistamines and medicated shampoo course", "status": "Resolved" },
+  { "id": "m2", "petName": "Whiskers", "condition": "Dental Tartar Buildup", "date": "2026-07-02", "treatment": "Professional dental cleaning under anesthesia", "status": "Resolved" },
+  { "id": "m3", "petName": "Bruno", "condition": "Torn Cranial Cruciate Ligament", "date": "2026-07-20", "treatment": "Surgical repair followed by 8-week rehabilitation plan", "status": "In Recovery" },
+  { "id": "m4", "petName": "Mochi", "condition": "Chronic Kidney Disease (Stage 2)", "date": "2026-08-05", "treatment": "Renal diet transition and quarterly bloodwork monitoring", "status": "Ongoing" },
+  { "id": "m5", "petName": "Daisy", "condition": "Ear Infection (Otitis Externa)", "date": "2026-08-18", "treatment": "Ear cleaning protocol and topical antibiotic drops", "status": "In Recovery" }
+]

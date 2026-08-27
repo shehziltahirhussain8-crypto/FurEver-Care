@@ -1,0 +1,47 @@
+[
+  {
+    "id": "v1",
+    "name": "Dr. Amelia Hart",
+    "specialization": "Small Animal Internal Medicine",
+    "experience": "12 years",
+    "contact": "amelia.hart@fureverclinic.com · (555) 210-4487",
+    "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=500&q=80",
+    "schedule": [
+      { "time": "9:00 AM", "status": "Available" },
+      { "time": "10:00 AM", "status": "Booked" },
+      { "time": "11:00 AM", "status": "Available" },
+      { "time": "1:00 PM", "status": "Booked" },
+      { "time": "2:00 PM", "status": "Available" },
+      { "time": "3:30 PM", "status": "Available" }
+    ]
+  },
+  {
+    "id": "v2",
+    "name": "Dr. Rafael Ortiz",
+    "specialization": "Orthopedic & Surgical Care",
+    "experience": "9 years",
+    "contact": "rafael.ortiz@fureverclinic.com · (555) 210-7723",
+    "image": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?w=500&q=80",
+    "schedule": [
+      { "time": "8:30 AM", "status": "Booked" },
+      { "time": "9:30 AM", "status": "Available" },
+      { "time": "12:00 PM", "status": "Available" },
+      { "time": "2:00 PM", "status": "Booked" },
+      { "time": "4:00 PM", "status": "Available" }
+    ]
+  },
+  {
+    "id": "v3",
+    "name": "Dr. Priya Nair",
+    "specialization": "Feline Medicine & Dermatology",
+    "experience": "7 years",
+    "contact": "priya.nair@fureverclinic.com · (555) 210-9902",
+    "image": "https://images.unsplash.com/photo-1594824476967-48c8b964273f?w=500&q=80",
+    "schedule": [
+      { "time": "9:00 AM", "status": "Available" },
+      { "time": "10:30 AM", "status": "Available" },
+      { "time": "1:00 PM", "status": "Booked" },
+      { "time": "3:00 PM", "status": "Available" }
+    ]
+  }
+]

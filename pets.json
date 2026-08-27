@@ -1,0 +1,98 @@
+[
+  {
+    "id": "a1",
+    "name": "Biscuit",
+    "type": "Dog",
+    "breed": "Labrador Mix",
+    "age": 2,
+    "gender": "Male",
+    "location": "Downtown Shelter",
+    "size": "Large",
+    "description": "Biscuit loves to play fetch. He wags his tail all day and loves belly rubs.",
+    "image": "https://images.unsplash.com/photo-1543466835-00a7907e9de1?w=600&q=80"
+  },
+  {
+    "id": "a2",
+    "name": "Nimbus",
+    "type": "Cat",
+    "breed": "Domestic Shorthair",
+    "age": 1,
+    "gender": "Female",
+    "location": "Riverside Shelter",
+    "size": "Small",
+    "description": "Nimbus is a curious cat. She watches birds and naps in warm sunlight.",
+    "image": "https://images.unsplash.com/photo-1533738363-b7f9aef128ce?w=600&q=80"
+  },
+  {
+    "id": "a3",
+    "name": "Clover",
+    "type": "Rabbit",
+    "breed": "Holland Lop",
+    "age": 1,
+    "gender": "Female",
+    "location": "Downtown Shelter",
+    "size": "Small",
+    "description": "Clover is a gentle rabbit. She loves fresh herbs and cardboard tunnels.",
+    "image": "https://images.unsplash.com/photo-1585110396000-c9ffd4e4b308?w=600&q=80"
+  },
+  {
+    "id": "a4",
+    "name": "Max",
+    "type": "Dog",
+    "breed": "German Shepherd",
+    "age": 4,
+    "gender": "Male",
+    "location": "Northgate Shelter",
+    "size": "Large",
+    "description": "Max is loyal and well trained. He would love an active family who likes to hike.",
+    "image": "https://images.unsplash.com/photo-1589941013453-ec89f33b5e95?w=600&q=80"
+  },
+  {
+    "id": "a5",
+    "name": "Pepper",
+    "type": "Cat",
+    "breed": "Tuxedo",
+    "age": 3,
+    "gender": "Male",
+    "location": "Riverside Shelter",
+    "size": "Medium",
+    "description": "Pepper is a calm cat. He gets along well with other pets.",
+    "image": "https://images.unsplash.com/photo-1495360010541-f48722b34f7d?w=600&q=80"
+  },
+  {
+    "id": "a6",
+    "name": "Waffles",
+    "type": "Rabbit",
+    "breed": "Mini Lop",
+    "age": 2,
+    "gender": "Male",
+    "location": "Northgate Shelter",
+    "size": "Small",
+    "description": "Waffles loves to play. He jumps for joy during his evening playtime.",
+    "image": "https://images.unsplash.com/photo-1591382386627-349b692688ff?w=600&q=80"
+  },
+  {
+    "id": "a7",
+    "name": "Luna",
+    "type": "Dog",
+    "breed": "Border Collie Mix",
+    "age": 1,
+    "gender": "Female",
+    "location": "Downtown Shelter",
+    "size": "Medium",
+    "description": "Luna is very smart. She learns new tricks fast and needs daily brain games.",
+    "image": "https://images.unsplash.com/photo-1517849845537-4d257902861a?w=600&q=80"
+  },
+  {
+    "id": "a8",
+    "name": "Marmalade",
+    "type": "Cat",
+    "breed": "Orange Tabby",
+    "age": 5,
+    "gender": "Male",
+    "location": "Northgate Shelter",
+    "size": "Medium",
+    "description": "Marmalade is a loving older cat. He just wants a warm lap to sit on.",
+    "image": "https://images.unsplash.com/photo-1518791841217-8f162f1e1131?w=600&q=80"
+  }
+]

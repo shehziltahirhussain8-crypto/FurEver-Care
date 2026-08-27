@@ -1,0 +1,54 @@
+[
+  {
+    "id": "tr1",
+    "title": "Sit & Stay Basics",
+    "difficulty": "Beginner",
+    "category": "Basic Commands",
+    "description": "Learn the first command every dog should know. Use good reward timing.",
+    "steps": [
+      "Hold a treat close to your dog's nose",
+      "Move your hand up so the head follows and the bottom lowers",
+      "Say 'sit' once the bottom touches the ground and reward immediately",
+      "Repeat 5–10 times per session, twice a day"
+    ]
+  },
+  {
+    "id": "tr2",
+    "title": "Loose-Leash Walking",
+    "difficulty": "Intermediate",
+    "category": "Leash Training",
+    "description": "Teach your dog to walk next to you without pulling.",
+    "steps": [
+      "Start in a low-distraction space like your hallway",
+      "Stop walking the instant the leash goes tight",
+      "Reward and continue only when the leash slackens again",
+      "Gradually add outdoor distractions once mastered indoors"
+    ]
+  },
+  {
+    "id": "tr3",
+    "title": "Puppy Toilet Training",
+    "difficulty": "Beginner",
+    "category": "Toilet Training",
+    "description": "A simple routine that builds good bathroom habits in a few weeks.",
+    "steps": [
+      "Take your puppy out first thing, after meals, and after naps",
+      "Choose one consistent outdoor spot and cue word",
+      "Reward within 3 seconds of successful elimination outside",
+      "Clean indoor accidents with an enzymatic cleaner to remove scent"
+    ]
+  },
+  {
+    "id": "tr4",
+    "title": "Positive Reinforcement 101",
+    "difficulty": "Beginner",
+    "category": "Positive Reinforcement",
+    "description": "The main training idea behind every FurEver Care lesson.",
+    "steps": [
+      "Mark the exact desired behavior with a clicker or the word 'yes'",
+      "Follow the marker with a reward within 1–2 seconds",
+      "Fade treats gradually and replace with praise and play",
+      "Never use punishment — redirect unwanted behavior instead"
+    ]
+  }
+]

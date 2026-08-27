@@ -1,0 +1,26 @@
+[
+  {
+    "id": "s1",
+    "petName": "Rosie",
+    "adoptionDate": "2026-02-11",
+    "story": "Rosie waited nine months at the shelter. Then the Alvarez family met her at an adoption event.",
+    "testimonial": "Rosie made our quiet house feel like home again. It was the best choice we ever made.",
+    "image": "https://images.unsplash.com/photo-1601979031925-424e53b6caaa?w=600&q=80"
+  },
+  {
+    "id": "s2",
+    "petName": "Tobias",
+    "adoptionDate": "2025-11-03",
+    "story": "Tobias is an older cat with a heart condition. The Chen family wanted to give an older cat a soft, loving home.",
+    "testimonial": "People said older cats are hard to place. Tobias proved them wrong, in the best way.",
+    "image": "https://images.unsplash.com/photo-1495360010541-f48722b34f7d?w=600&q=80"
+  },
+  {
+    "id": "s3",
+    "petName": "Scout",
+    "adoptionDate": "2026-05-22",
+    "story": "Scout was shy at first. Kind shelter volunteers helped him feel safe before he found his home.",
+    "testimonial": "Scout hid under the couch for a week. Now he greets every guest at the door.",
+    "image": "https://images.unsplash.com/photo-1517849845537-4d257902861a?w=600&q=80"
+  }
+]

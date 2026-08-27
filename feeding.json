@@ -1,0 +1,50 @@
+[
+  {
+    "id": "f1",
+    "group": "Puppies",
+    "species": "Dog",
+    "mealsPerDay": "3–4 meals",
+    "portion": "½–1½ cups, by weight",
+    "notes": "Puppy food has more protein to help them grow. Do not give adult food before 12 months."
+  },
+  {
+    "id": "f2",
+    "group": "Adult Dogs",
+    "species": "Dog",
+    "mealsPerDay": "2 meals",
+    "portion": "1–2½ cups, by weight & activity",
+    "notes": "A balanced diet for grown dogs. Give more food to dogs that stay very active."
+  },
+  {
+    "id": "f3",
+    "group": "Senior Dogs",
+    "species": "Dog",
+    "mealsPerDay": "2 meals",
+    "portion": "¾–2 cups, by weight",
+    "notes": "Lower-calorie food that helps with weight and joints."
+  },
+  {
+    "id": "f4",
+    "group": "Kittens",
+    "species": "Cat",
+    "mealsPerDay": "4 meals",
+    "portion": "¼–½ cup, by weight",
+    "notes": "Kitten food has more calories to help them grow fast."
+  },
+  {
+    "id": "f5",
+    "group": "Adult Cats",
+    "species": "Cat",
+    "mealsPerDay": "2 meals",
+    "portion": "⅓–½ cup, by weight",
+    "notes": "Mix wet and dry food. This helps with water and healthy teeth."
+  },
+  {
+    "id": "f6",
+    "group": "Senior Cats",
+    "species": "Cat",
+    "mealsPerDay": "2–3 small meals",
+    "portion": "¼–⅓ cup, by weight",
+    "notes": "Small meals, more often. This is easier to digest and is good for the kidneys."
+  }
+]
